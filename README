@@ -1,17 +1,16 @@
-ネタバレ注意
+C++の歴史
 
-歌舞伎座.tech#2 スライド資料
+C++の歴史を説明するためのスライド資料
 
-C++14の主要機能について
+GitHub Pagesでの閲覧：http://ezoeryou.github.io/cpp-history/index.html
 
-GitHub Pagesでの閲覧：http://ezoeryou.github.io/kabukiza-tech2-slide/index.html
-
-Title   : C++14の新機能
+Title   : C++の歴史
 Author  : 江添亮
-Blog    : http://cpplover.blogspot.jp/
-Mail    : boostcpp@gmail.com
+Blog:     http://cpplover.blogspot.com/
+Twitter: https://twitter.com/EzoeRyou
+GitHub: https://github.com/EzoeRyou
 
-2013-11-14に開催される、歌舞伎座.tech#2(http://connpass.com/event/3604/)で使用するスライド資料。
+C++の歴史を説明するためのスライド資料
 
 スライド資料のライセンスはGFDL。
 スライドにはreveal.jsやhighlight.jsやその他のライブラリを利用。
